@@ -17,7 +17,7 @@ client.once("clientReady", () => {
 });
 
 client.on("guildMemberAdd", async (member) => {
-  const welcomeText = `°‧ 𓆞 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕾𝖍𝖆𝖗𝖒𝖐 𓆝 ·｡
+  const welcomeText = `°‧ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝕾𝖍𝖆𝖗𝖒𝖐 ·｡
 
 ${member}
 
