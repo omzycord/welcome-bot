@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits, WebhookClient, EmbedBuilder } = require("discord.js");
 
-const const BOT_TOKEN = process.env.BOT_TOKEN;
+const BOT_TOKEN = process.env.BOT_TOKEN;
 const WEBHOOK_URL = process.env.WEBHOOK_URL;
 
 const client = new Client({
