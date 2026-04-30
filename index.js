@@ -27,11 +27,11 @@ ${member}
 
 𝑮𝒆𝒕𝒕𝒊𝒏𝒈 𝒔𝒕𝒂𝒓𝒕𝒆𝒅 𝒊𝒔 𝒔𝒖𝒑𝒆𝒓 𝒆𝒂𝒔𝒚!
 
-𝑯𝒆𝒂𝒅 𝒕𝒐 ⁠✩₊˚⋆rules — 𝑻𝒂𝒌𝒆 𝒂 𝒒𝒖𝒊𝒄𝒌 𝒑𝒆𝒆𝒌 𝒂𝒕 𝒐𝒖𝒓 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒈𝒖𝒊𝒅𝒆𝒍𝒊𝒏𝒆𝒔.
+𝑯𝒆𝒂𝒅 𝒕𝒐 ⁠#✩₊˚⋆rules — 𝑻𝒂𝒌𝒆 𝒂 𝒒𝒖𝒊𝒄𝒌 𝒑𝒆𝒆𝒌 𝒂𝒕 𝒐𝒖𝒓 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒈𝒖𝒊𝒅𝒆𝒍𝒊𝒏𝒆𝒔.
 
-𝑽𝒆𝒓𝒊𝒇𝒚 𝒊𝒏 ⁠✩₊˚⋆verify — 𝑻𝒉𝒊𝒔 𝒉𝒆𝒍𝒑𝒔 𝒌𝒆𝒆𝒑 𝒐𝒖𝒓 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒔𝒂𝒇𝒆.
+𝑽𝒆𝒓𝒊𝒇𝒚 𝒊𝒏 ⁠#✩₊˚⋆verify — 𝑻𝒉𝒊𝒔 𝒉𝒆𝒍𝒑𝒔 𝒌𝒆𝒆𝒑 𝒐𝒖𝒓 𝒄𝒐𝒎𝒎𝒖𝒏𝒊𝒕𝒚 𝒔𝒂𝒇𝒆.
 
-𝑮𝒓𝒂𝒃 𝒀𝒐𝒖𝒓 𝑹𝒐𝒍𝒆𝒔 𝒊𝒏 ⁠✩₊˚⋆roles — 𝑷𝒊𝒄𝒌 𝒓𝒐𝒍𝒆𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒕𝒄𝒉 𝒚𝒐𝒖𝒓 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔.`;
+𝑮𝒓𝒂𝒃 𝒀𝒐𝒖𝒓 𝑹𝒐𝒍𝒆𝒔 𝒊𝒏 ⁠#✩₊˚⋆roles — 𝑷𝒊𝒄𝒌 𝒓𝒐𝒍𝒆𝒔 𝒕𝒉𝒂𝒕 𝒎𝒂𝒕𝒄𝒉 𝒚𝒐𝒖𝒓 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒔.`;
 
   const embed = new EmbedBuilder()
     .setColor("#00BFFF")
@@ -42,7 +42,7 @@ ${member}
     .setTimestamp();
 
   await webhook.send({
-    username: "chomps",
+    username: "Chomps",
     avatarURL: "https://i.imgur.com/xTkyw1m.jpeg", // PFP
     embeds: [embed]
   });
